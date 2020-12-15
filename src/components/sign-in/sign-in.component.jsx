@@ -29,7 +29,7 @@ class SignIn extends React.Component {
             name="email"
             type="email"
             value={this.state.email}
-            label="Email"
+            label="Emails"
             handleChange={this.handleChange}
             required
           />
