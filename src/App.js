@@ -36,7 +36,7 @@ class App extends React.Component {
       }
 
       //this.setState({ currentUser: userAuth.uid });
-      //// console.log(userAuth);
+      // console.log(userAuth);
     });
   }
 
